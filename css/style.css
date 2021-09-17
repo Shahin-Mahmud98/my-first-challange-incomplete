@@ -1,0 +1,23 @@
+.top{
+    margin-top: 10px;
+}
+.color{
+    color: blue;
+    padding-left: 50px;
+}
+.container{
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.container1{
+    margin-top: 30px;
+}
+.detail-busp{
+    display: flex;
+    
+}
+.bus{
+    height: 1px;
+    width: 1px;
+}
